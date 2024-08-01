@@ -1,6 +1,6 @@
 * Q: Cyberspace is not dependent of physical space air land and sea
 * A: `False`
-*Q: Information forces are specifically organized trained and equipped to create effects in the IE
+* Q: Information forces are specifically organized trained and equipped to create effects in the IE
 * A: `True`
 * Q: The _______ aspects are contacts among and between people, the environment that shapes behaviior and decision making
 * A: `Human`
