@@ -29,8 +29,27 @@ D4M
 Space Operations
 * Operations impacting or directly utilizing space and ground-based capabilities to enhance the potential of the United States and multinational partners.
 Space Situational Awareness
+* Congested
+* Constrained
+Electromagnetic environment
+* EMS portion of the environment where military operations are executed. The recognized need for military forces to have unimpeeded acces to, and use of, the EME
+* Electomagnetic Attack
+* Electromagnetic Protection (Controls EM energy without significantly degrading the operation of friendly systems)
+* Electromagnetic Support
+D4M
+* Deny
+* Degrade
+* Disrupt
+* Destroy
+* Manipulate
+Space Operations
+* Operations impacting or directly utilizing space and ground-based capabilities to enhance the potential of the United States and multinational partners.
+Space Situational Awareness
 * Requisite foundational, current, and predictive knowledge and characterization of space objects and the OE upon which space operations depend
 Space domain elements
+* Requisite foundational, current, and predictive knowledge and characterization of space objects and the OE upon which space operations depend
+Space domain elements
+* User Segment
 * Ground Segment (terrestrial segment)
 * Link Segment
 * Space segment
@@ -47,8 +66,9 @@ Space mission assurance
 * Reconstitution
 * Resilience
 * Detterence
-
-
+Cyberspace Operations
+* Use links and nodes located in the physical domain and perform logical functions to create effects first in the cyberspace
+DODIN Operations mission (Secure, maintain, configure, operate, extend, maintain, and sustain)
 
 
 
