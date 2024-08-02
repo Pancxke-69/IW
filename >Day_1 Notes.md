@@ -1,30 +1,30 @@
-5 Operational Domains
+#### 5 Operational Domains
 * Space
 * Air
 * Land
 * Sea
 * Cyber
-Area surrounding earth is greater than 100 kilometers above mean sea level
+#### Area surrounding earth is greater than 100 kilometers above mean sea level
 
-Layers of Cyberspace
+#### Layers of Cyberspace
 * Physical - Hardware (Router, Computers, Switches)
 * Logical - Software
 * Cyber-Persona - Open source Intel, Social Engineering
 
-Joint All-Domain Operations Concept
+#### Joint All-Domain Operations Concept
 * Provides Commanders numerous options for simultaneuos and sequential operations
 * Uses suprise and rapid and continuous integration of capabilities across all domains
 * Present multiple dilemmas to an adversary
 * Gain physical and psychological advantages
 
-MDEB Conducts:
+#### MDEB Conducts:
 * Intelligence collection and analysis
 * Supports Information environment operations
 * Performs offensive and defensive cyberspace actions
 * Employs EW and Space
 * Integrates civil affairs and psychological operations and capabilities
 
-Expeditionary advanced base operations
+#### Expeditionary advanced base operations
 * Stand in forces
 * Mobility
 * Persistence
@@ -32,22 +32,22 @@ Expeditionary advanced base operations
 * Integrated Naval Forces
 * Cost Effective
 
-United States entered WWII incapable of coordinating land, sea, and air activities across its two military departments (War and Navy)
+#### United States entered WWII incapable of coordinating land, sea, and air activities across its two military departments (War and Navy)
 
-In 1942 FDR created the Joint Chiefs of Staff (JCS)
+#### In 1942 FDR created the Joint Chiefs of Staff (JCS)
 
-National Security Act of 1947
+#### National Security Act of 1947
 * Created the National Military Establishment (a DOD precursor)
 
-Legislated revisions to the National Security Act in 1949, 1953, and 1958 attempted to mend these deficiencies, particularly by:
+#### Legislated revisions to the National Security Act in 1949, 1953, and 1958 attempted to mend these deficiencies, particularly by:
 * Strengthening the SECDEF
 * Establishing the charman of the joint cheif o staff (CJCS)
 * Removing military secretaries and service cheifs from the operational chain of command
 * Giving unified commanders full operational command of assigned forces
 
-These Provisions were not effectively implemented, so the military departments retained a de facto in the operational chain of command
+#### These Provisions were not effectively implemented, so the military departments retained a de facto in the operational chain of command
 
-How did we get here?
+#### How did we get here?
 * Numerous military failures highlighted institutional deficiencies at all levels. The adhoc nature of the joint effort in these operations contributed to an inability to efectively link tactical actions to strategic ends
 * Vietnam Ware
 * USS pueblo
@@ -56,13 +56,13 @@ How did we get here?
 * Marine Barracks Beirut
 * Operation urgent fury
 
-Goldwater-Nichols Act 1986 (Major Changes)
+#### Goldwater-Nichols Act 1986 (Major Changes)
 * Chain of command and military advice
 * Interaction of the services
 * Personnel Management
 * Share procurment
 
-Command and Control
+#### Command and Control
 * Supported Commander (The Guy in charge)
 * Supporting Commander (Control who what when and how)
 * Combatant Command (Command Authority) (COCOM)
@@ -74,107 +74,66 @@ Command and Control
 * Coordinating Authority
 * Direct Liaison Authorized
 
-Forces
+#### Forces
 * SECDEF assigns
 * SECDEF allocates
 * SECDEF apportions
 
-Unified Commands
+#### Unified Commands
 * Joint Commands are established by missions and responsibilities often based on either a geographic AOR or functions
 * CCDR's forces can operate wherever they are required to accomplish missions
 
-Combatant Commands with functional focus
+#### Combatant Commands with functional focus
 * Offutt air force base in bellbue, nebraska
 
-The national archives federal register lists 436 federal agencies, each with their own culture, processes, tactics, techniques, and procedures
+#### The national archives federal register lists 436 federal agencies, each with their own culture, processes, tactics, techniques, and procedures
 
 Title 10 (Armed Forces)
 Title 22 (Foreign Relatations)
 Title 50 (Foreign intel and covert action)
 
-JFC's Operational Environment is the composite of the conditions, circumstances, and influences that affect empoyment of capabilities and bear on the decisions of the commander.
+#### JFC's Operational Environment is the composite of the conditions, circumstances, and influences that affect empoyment of capabilities and bear on the decisions of the commander.
 
-The competition Continuum
+#### The competition Continuum
 * Cooperation
 * Adversarial Competition
 * Armed Conflicted/War
 
-Unified Action and levels of War
+#### Unified Action and levels of War
 * Strategic
 * Operational
 * Tactical
 
-Information Environment Defined
+#### Information Environment Defined
 * Informational aspects (How groups communicate with eachother)
 * Physical aspects (Material Characteristics)
 * Human aspects (Interactions)
 
-Informational aspect of the information environment
+#### Informational aspect of the information environment
 * Informational aspacts reflect the way that individuals, information systems, and groups communicate and exchange information. Informational aspects are the sensory inputs of activities that a reciever interprets and uses to assign meaning.
 
-Physical aspects of the information environment
+#### Physical aspects of the information environment
 * Material characteristics, both natural and manufactured, of the environment that may inhibit or enhance communication. May create constraints and freedoms on the people and information systems that operate in it.
 
-Human aspect of the information enviroment
+#### Human aspect of the information enviroment
 * Interactions among and between people and the environment that shape human behavior and decision making. thos interactions are based upon the linguistic, social, cultural, psychological, and physical elements
 
-Introduction to operations in the information environment
+#### Introduction to operations in the information environment
 * Information Advantage
 * Informational Power
 * The elevation of information as a joint function impacts all operations and signals a fundemental appreciation for the military role of information at the strategic, operational, and tactical levels within todays complex OE
 
-Organizing for OIE
+#### Organizing for OIE
 * Information forces, the building blocks of OIE units, are those active component and reserver component forces specifically organized, trained, and equipped to create and/or suppport the creation of effects on the IE.
 
-Interagency in OIE
+#### Interagency in OIE
 * Effective integration of the appororiate US government organizatinos will enhance the overall success of joint force operations. there are a multitude of organizations inside and outside DOD
 
-QUIZLET CODES
-----------------------------
+#### QUIZLET CODES
+```
 A: 02294949
    05568410
-
-KAHOOT STUFF
---------------------
-Q: Cyberspace is not dependent of physical space air land and sea
-A: False
-Q: Information forces are specifically organized trained and equipped to create effects in the IE
-A: True
-Q: The _______ aspects are contacts among and between people, the environment that shapes behaviior and decision making
-A: Human
-Q: The supported commander has the authority to excercise general direction of supporting effort
-A: True
-Q: What are the 3 layers of cyberspace?
-A: Physical network layer, logical network, and cyber-persona layer.
-Q: The SECDEF _____, _____, and ____ forces to combatant commanders
-A: assigns, allocates, apportions
-Q: the ____ of 1947 created the national millitary establishment and prescribed a weak SECDEF
-A: National security act
-Q: The Multi-DOmain effect batalatiion provides ____ ______ ____ target acquistion and products
-A: Sigint, Geoint, Osint
-Q: __ operatate across all geographic regions and typically provide suport to other combatant commanders
-A: Functional combatant commands.
-Q: What are the 5 operation domains
-A: Air, Land, Maritime, Cyberspace, and space
-Q: The space domain is the area above the alitidue where atomospheric effects are negligible
-A: True
-Q: the __ aspects reflect the way that individulas information systems and groups communicate and exchange information
-A: Informational.
-Q: What are the 3 aspects of the information environment
-A: Physical, Informational, Human
-Q: OIE is coducted in support of JFCS operations campaign objectives or in support of other components of joint forces
-A: True
-Q: ___ organiztions and perosnnel focus on OIE core activity of informating domeestic inernational and internal audiences
-A: public affairs
-Q: __ actions establish, maintain, influence or exploit relations among millitary forces, native peoples and instituions. (natives can be indigenous instead for test)
-A: Civil  Millitary operations
-Q: The Supporting commander determines timing and duration of supporting aciton (This is what supported commander does)
-A: False
-Q: The ___ of 1986 made CJCS the sole military advisor to the POTUS and NSC.
-A: Goldwater-Nichols Act
-Q: ___ operations are military actions donucted by joint forces and service forces is specified command relationships
-A: Joint
-
+```
 
 
 
