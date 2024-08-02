@@ -1,3 +1,4 @@
+* https://quizlet.com/931358394/day-1-iw-flash-cards/?i=51ceg&x=1jqt
 * Q: Cyberspace is not dependent of physical space air land and sea
 * A: `False`
 * Q: Information forces are specifically organized trained and equipped to create effects in the IE
