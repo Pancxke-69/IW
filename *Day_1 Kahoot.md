@@ -2,7 +2,7 @@
 * A: `False`
 * Q: Information forces are specifically organized trained and equipped to create effects in the IE
 * A: `True`
-* Q: The _______ aspects are contacts among and between people, the environment that shapes behaviior and decision making
+* Q: The _______ aspects are contacts among and between people, the environment that shapes behavior and decision making
 * A: `Human`
 * Q: The supported commander has the authority to excercise general direction of supporting effort
 * A: `True`
@@ -10,27 +10,27 @@
 * A: `Physical network layer, logical network, and cyber-persona layer.`
 * Q: The SECDEF _____, _____, and ____ forces to combatant commanders
 * A: `assigns, allocates, apportions`
-* Q: the ____ of 1947 created the national millitary establishment and prescribed a weak SECDEF
+* Q: the ____ of 1947 created the national military establishment and prescribed a weak SECDEF
 * A: `National security act`
-* Q: The Multi-DOmain effect batalatiion provides ____ ______ ____ target acquistion and products
+* Q: The Multi-Domain effect battalion provides ____ ______ ____ target acquistion and products
 * A: `Sigint, Geoint, Osint`
 * Q: __ operatate across all geographic regions and typically provide suport to other combatant commanders
 * A: `Functional combatant commands.`
 * Q: What are the 5 operation domains
 * A: `Air, Land, Maritime, Cyberspace, and space`
-* Q: The space domain is the area above the alitidue where atomospheric effects are negligible
+* Q: The space domain is the area above the altitidue where atomospheric effects are negligible
 * A: `True`
-* Q: the __ aspects reflect the way that individulas information systems and groups communicate and exchange information
+* Q: the __ aspects reflect the way that individuals information systems and groups communicate and exchange information
 * A: `Informational.`
 * Q: What are the 3 aspects of the information environment
 * A: `Physical, Informational, Human`
 * Q: OIE is coducted in support of JFCS operations campaign objectives or in support of other components of joint forces
 * A: `True`
-* Q: ___ organiztions and perosnnel focus on OIE core activity of informating domeestic inernational and internal audiences
+* Q: ___ organiztions and personnel focus on OIE core activity of informating domestic inernational and internal audiences
 * A: `public affairs`
-* Q: __ actions establish, maintain, influence or exploit relations among millitary forces, native peoples and instituions. (natives can be indigenous instead for test)
+* Q: __ actions establish, maintain, influence or exploit relations among military forces, native peoples and instituions. (natives can be indigenous instead for test)
 * A: `Civil  Millitary operations`
-* Q: The Supporting commander determines timing and duration of supporting aciton (This is what supported commander does)
+* Q: The Supporting commander determines timing and duration of supporting action (This is what supported commander does)
 * A: `False`
 * Q: The ___ of 1986 made CJCS the sole military advisor to the POTUS and NSC.
 * A: `Goldwater-Nichols Act`
