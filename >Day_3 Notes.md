@@ -1,0 +1,5 @@
+#### CyberCase Study
+* DECEMBER 2023 Russian hacker group (sandstorm) hit Ukraine’s largest mobile phone provider, Kyivstar, disabling access to its 24 million customers in Ukraine. Hackers claim to have destroyed more than 10,000 computers and 4,000 servers, including cloud storage and backup systems. The attack began hours before President Zelenskyy met with President Biden in Washington D.C.
+  - In an interview, Illia Vitiuk, head of the Security Service of Ukraine's (SBU) cybersecurity department, Vitiuk said, The attack wiped "almost everything", including thousands of virtual servers and PCs, he said, describing it as probably the first example of a destructive cyberattack that "completely destroyed the core of a telecoms operator."
+  - Kyivstar is the biggest of Ukraine's three main telecoms operators and there are some 1.1 million Ukrainians who live in small towns and villages where there are no other providers
+  - It's still unclear what method of exploitation was used, but they speculate that it could be a trojan or a phishing attempt
