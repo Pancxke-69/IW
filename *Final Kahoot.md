@@ -170,3 +170,5 @@
 * A: `DCO-RA`
 * Q: Purpose of DCO is to halt adversary offensive initiative, and sutain or regain friendly initiative.
 * A: `True`
+* Q: DCO IDM is done by the CSSP
+* A: False
